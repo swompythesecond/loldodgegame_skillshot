@@ -1,0 +1,1 @@
+x = (110-global.enemy_set_amount)*15;
