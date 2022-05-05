@@ -3,6 +3,6 @@ if (time > 0) {
     alarm[0] = 30;
 } else {
     {
-        room_goto(room1);
+        room_goto(room0);
     }
 }

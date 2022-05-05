@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_daily","path":"sprites/s_daily/s_daily.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_daily",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_proguides_banner","path":"sprites/s_proguides_banner/s_proguides_banner.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_proguides_banner",
     "tags": [],
     "resourceType": "GMSequence",

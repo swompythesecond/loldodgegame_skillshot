@@ -191,7 +191,7 @@ if global.mode = 3 {global.bullet_speed = 15; }
 
 if global.skillshot == 1 && global.dodge == 1{
 
-
+global.enemyspeed = 6;
 if global.mode = 1 {global.bullet_speed = 5; }
 if global.mode = 2 {global.bullet_speed = 7.5; }
 if global.mode = 3 {global.bullet_speed = 12; }

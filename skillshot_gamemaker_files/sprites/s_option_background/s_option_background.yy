@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_option_background","path":"sprites/s_option_background/s_option_background.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_option_background",
     "tags": [],
     "resourceType": "GMSequence",

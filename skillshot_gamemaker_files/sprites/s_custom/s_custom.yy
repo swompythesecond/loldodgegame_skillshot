@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_custom","path":"sprites/s_custom/s_custom.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_custom",
     "tags": [],
     "resourceType": "GMSequence",

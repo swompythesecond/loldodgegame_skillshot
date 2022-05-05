@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_edit","path":"sprites/s_edit/s_edit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_edit",
     "tags": [],
     "resourceType": "GMSequence",

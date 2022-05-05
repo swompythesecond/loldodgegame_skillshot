@@ -195,7 +195,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_up","path":"sprites/s_up/s_up.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_weekly","path":"sprites/s_weekly/s_weekly.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_weekly",
     "tags": [],
     "resourceType": "GMSequence",

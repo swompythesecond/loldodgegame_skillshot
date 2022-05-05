@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_enter_name","path":"sprites/s_enter_name/s_enter_name.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_enter_name",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_icon_holder","path":"sprites/s_icon_holder/s_icon_holder.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_icon_holder",
     "tags": [],
     "resourceType": "GMSequence",

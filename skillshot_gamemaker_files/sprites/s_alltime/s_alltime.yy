@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_alltime","path":"sprites/s_alltime/s_alltime.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_alltime",
     "tags": [],
     "resourceType": "GMSequence",

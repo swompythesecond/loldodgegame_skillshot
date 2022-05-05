@@ -191,7 +191,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_enemy_side","path":"sprites/s_enemy_side/s_enemy_side.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_rank_up_now","path":"sprites/s_rank_up_now/s_rank_up_now.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_rank_up_now",
     "tags": [],
     "resourceType": "GMSequence",

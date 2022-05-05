@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_icon_reddit","path":"sprites/s_icon_reddit/s_icon_reddit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_icon_reddit",
     "tags": [],
     "resourceType": "GMSequence",

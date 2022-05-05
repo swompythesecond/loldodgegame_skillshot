@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_icon_twitter","path":"sprites/s_icon_twitter/s_icon_twitter.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_icon_twitter",
     "tags": [],
     "resourceType": "GMSequence",

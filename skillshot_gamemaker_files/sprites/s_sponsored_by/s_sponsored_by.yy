@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_sponsored_by","path":"sprites/s_sponsored_by/s_sponsored_by.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_sponsored_by",
     "tags": [],
     "resourceType": "GMSequence",

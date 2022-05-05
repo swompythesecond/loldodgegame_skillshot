@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"s_indicator_2","path":"sprites/s_indicator_2/s_indicator_2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "s_indicator_2",
     "tags": [],
     "resourceType": "GMSequence",
